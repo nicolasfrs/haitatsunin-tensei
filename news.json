@@ -1,14 +1,4 @@
 [
- {
-  "date": "17/11/2026",
-  "text": "capitulo novo lançado!",
-  "label": "Kakuyomu [ JP ]",
-  "url": "https://kakuyomu.jp/works/2912051595782318117/episodes/11054822667167400109"
- },
- {
-  "date": "17/11/2026",
-  "text": "capitulo novo lançado!",
-  "label": "Shōsetsuka ni Narō [ JP ]",
-  "url": "https://ncode.syosetu.com/n0841ly/29/"
- }
+ {"date":"17/11/2026","text":"New chapter released!","label":"Kakuyomu [ JP ]","url":"https://kakuyomu.jp/works/2912051595782318117/episodes/11054822667167400109"},
+ {"date":"17/11/2026","text":"New chapter released!","label":"Shōsetsuka ni Narō [ JP ]","url":"https://ncode.syosetu.com/n0841ly/29/"}
 ]
