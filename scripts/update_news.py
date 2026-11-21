@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NEWS, STATE = os.path.join(ROOT, "news.json"), os.path.join(ROOT, "state.json")
 UA = {"User-Agent": "Mozilla/5.0 (compatible; HaitatsuninNewsBot/1.0)"}
-TEXT = "capitulo novo lançado!"
+TEXT = "New chapter released!"
 
 SOURCES = [
  {"key": "rr-pt", "label": "Royal Road [ PT ]", "kind": "rr", "id": "156210"},
